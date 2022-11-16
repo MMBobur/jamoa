@@ -18,4 +18,3 @@ jobs:
         port: 28
         username: admin1
         password: test!@123456
-        server-dir: /home/admin1/www/test/
